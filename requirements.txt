@@ -1,0 +1,8 @@
+
+numpy
+matplotlib
+tkinter
+nd2
+nd2reader
+tifffile
+dask
